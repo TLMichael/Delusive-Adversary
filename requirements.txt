@@ -1,0 +1,8 @@
+torch
+torchvision
+tensorboard
+scipy
+matplotlib
+pandas
+tqdm
+pprint
