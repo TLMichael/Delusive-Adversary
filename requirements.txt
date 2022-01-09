@@ -5,4 +5,3 @@ scipy
 matplotlib
 pandas
 tqdm
-pprint
